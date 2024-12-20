@@ -13,7 +13,7 @@ POST https://blog-platform.kata.academy/api/users/
 
 ### Authentication
 ```
-POST https://blog-platform.kata.academy/api/user/users/login/
+POST https://blog-platform.kata.academy/api/users/login/
 {
     "user": {
       "email": "antonydvoininow@outlook.com",
